@@ -1,3 +1,6 @@
 # Programação Orientada a Objetos
 
-## Praticando como desenvolver utilizando POO
+## Programas desenvolvidos utilizando POO:
+
+*Jogo da forca
+*2 Exercícios envolvendo conceitos de classe, método, herança e objeto
