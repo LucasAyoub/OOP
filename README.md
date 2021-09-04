@@ -1,6 +1,6 @@
-# Programação Orientada a Objetos
+# Object Oriented Programming
 
-## Programas desenvolvidos utilizando POO:
+## Programs developed using OOP:
 
-* Jogo da forca (Baixar junto dele o arquivo "palavras.txt")
-* 2 Exercícios envolvendo conceitos de Classes, Métodos, Heranças e Objetos
+* Hangman game (Forca.txt) - (Download the "palavras.txt" file with it)
+* 2 Exercises involving concepts of Classes, Methods, Inheritance and Objects
